@@ -26,6 +26,8 @@ blah blah.. wip
 * **PWM** 120x120mm cooling fan - [MiliPow 12V/12.7A, 6000RPM Cooling Fan](https://www.amazon.co.uk/gp/product/B08X2W9JH3/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 * Arduino UNO REV3 - [Arduino UNO REV3](https://www.amazon.co.uk/Arduino-A000066-ARDUINO-UNO-REV3/dp/B008GRTSV6/ref=sr_1_6?crid=3D1XCUSR42DUD&keywords=arduino&qid=1641375372&s=computers&sprefix=arduino+%2Ccomputers%2C60&sr=1-6)
 
+Estimated total cost: £45
+
 # Required non-development tools
 ## 3d printing
 * [Autodesk Fusion 360](https://www.autodesk.co.uk/products/fusion-360/overview).
@@ -37,10 +39,10 @@ blah blah.. wip
 # Instructions
 
 ## 3d print instructions
-*these steps assume you do not own a 3D printer*
+*These steps assume you do not own a 3D printer*
 1. Open the 3d file found in ``` 3d-files ``` in Audodesk Fusion 360
-2. Go to ``` File -> Export ``` and export as a ```.sto``` file
-3. Upload the ```.sto``` file into an online print service
+2. In Fusion 360, go to ``` File -> Export ``` and export as a ```.sto``` file
+3. Upload the ```.sto``` file into an [online print service](makeitquick.co.uk)
 
 ## Arduino instructions
 1. [Arduino IDE](https://www.arduino.cc/en/software). *do not use the online version*
