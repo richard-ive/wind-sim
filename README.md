@@ -46,10 +46,19 @@ Estimated total cost: £45
 
 ## Arduino instructions
 1. [Arduino IDE](https://www.arduino.cc/en/software). *do not use the online version*
-2. Copy the code from ``` arduino -> fan-control ``` into a new Arduino sketch
+2. Copy the code from ``` arduino/fan-control ``` into a new Arduino sketch
 3. Attach your Arduino
 4. Upload
 5. Profit!
+
+## Wiring
+Put schematic here.
+
+**You must make sure that that Arduino and fan(s) share a common ground!**
+
+Arduino PWM output pins:
+* 9
+* 10
 
 # Client development
 ## Tools
